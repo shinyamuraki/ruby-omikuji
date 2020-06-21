@@ -5,3 +5,4 @@ puts omikuji.sample
 puts User
 puts User
 puts Class
+puts Class
